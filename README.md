@@ -6,19 +6,18 @@ Ce dépôt contient notre travail pour le ChallengeIA, faisant partie de notre t
 #### Données :
 
 Le dataset Dior est composé de deux dossiers et d'un fichier csv : 
-`
-data/
+
+data/<br />
+│<br />
+├── DAM/<br />
+│   ├── 01BB01A2102X4847.jpeg<br />
+│   ├── ...<br />
 │
-├── DAM/
-│   ├── 01BB01A2102X4847.jpeg
-│   ├── ...
-│
-├── test_image_headmind/
-│   ├── image-20210928-102713-12d2869d.jpeg
-│   ├── ...
-│
-└── product_list.csv
-`
+├── test_image_headmind/<br />
+│   ├── image-20210928-102713-12d2869d.jpeg<br />
+│   ├── ...<br />
+│<br />
+└── product_list.csv<br />
 
 - Le dossier "DAM" contient tous les jpeg de références de chaque article (2 766 articles). Le nom de chaque jpeg correspond à son MMC référencé dans le csv. Chaque image est de taille 256x256.
 
