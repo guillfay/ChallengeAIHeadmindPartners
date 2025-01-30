@@ -3,7 +3,7 @@ Ce dépôt contient notre travail pour le ChallengeIA, faisant partie de notre t
 
 Ce challenge est réalisé en partenariat avec Hedmind Partners
 
-![CS](./param/CS.png)
+![CS](./param/CS.jpg)
 
 ![Headmind](./param/headmind.jpg)
 
@@ -49,7 +49,7 @@ Les méthodes employées dans ce projet sont les suivantes :
 - Fine tuning
 - Benchmark des pipelines
 
-![Pipeline](./param/Pipeline.jpg)
+![Pipeline](./param/Pipeline.png)
 
 #### Résultats
 Le modèle le plus performant est ResNet-50, exploitant la data augmentation au moyen de flip horizontaux, utilisant la métrique cosine. 
@@ -63,6 +63,6 @@ L'évaluation du modèle est basée sur l'accuracy, élargie aux top 3 et top 5 
 Nous avons orienté la conception de notre solution avec une vision produit, gardé en tête l'utilité finale que peut avoir le client du produit qui est développé. Ce produit peut typiquement tre intégré à une applicaition mobile pour que le client ait la référence exacte du produit scanné en magasin grâce à son téléphone, ou bien pour que le vendeur puisse réaliser son inventaire de stock en scannant les articles de la boutique.
 
 #### Présentation
-La présentation utilisée pour notre soutenance peut être retrouvée [ici](/param.Soutenance_HeadMindPartners.pdf)
+La présentation utilisée pour notre soutenance peut être retrouvée [ici](/param/Soutenance_HeadMindPartners.pdf)
 
  
