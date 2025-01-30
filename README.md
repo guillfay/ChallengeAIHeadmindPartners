@@ -49,6 +49,8 @@ Les méthodes employées dans ce projet sont les suivantes :
 - Fine tuning
 - Benchmark des pipelines
 
+![Pipeline](./param/Pipeline.jpg)
+
 #### Résultats
 Le modèle le plus performant est ResNet-50, exploitant la data augmentation au moyen de flip horizontaux, utilisant la métrique cosine. 
 L'évaluation du modèle est basée sur l'accuracy, élargie aux top 3 et top 5 : une prédictuion est comptée juste lorsque la référence exacte du produit attendue est proposée par le modèle dans son top 3 (respectivement top 5)
