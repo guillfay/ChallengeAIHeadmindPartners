@@ -63,6 +63,5 @@ L'évaluation du modèle est basée sur l'accuracy, élargie aux top 3 et top 5 
 Nous avons orienté la conception de notre solution avec une vision produit, gardé en tête l'utilité finale que peut avoir le client du produit qui est développé. Ce produit peut typiquement tre intégré à une applicaition mobile pour que le client ait la référence exacte du produit scanné en magasin grâce à son téléphone, ou bien pour que le vendeur puisse réaliser son inventaire de stock en scannant les articles de la boutique.
 
 #### Présentation
-La présentation utilisée pour notre soutenance peut être retrouvée [ici](/param/Soutenance_HeadMindPartners.pdf)
-
+La présentation utilisée pour notre soutenance peut être retrouvée [Ouvrir la présentation](./param/Soutenance_HeadMindPartners.pdf)
  
